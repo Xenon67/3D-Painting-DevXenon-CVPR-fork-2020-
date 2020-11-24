@@ -1,3 +1,4 @@
+# DESTEK SONLANDIRILMIŞTIR
 ### 3D Painting / DevXenon-CVPR 2020
 #### We don't all have supercomputers. 
 #### So I decided to do something like this.
